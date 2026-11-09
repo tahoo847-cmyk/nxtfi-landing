@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "nxtfi", "runtimeExecutable": "npm", "runtimeArgs": ["run", "dev"], "port": 3100 },
+    { "name": "nxtfi-prod", "runtimeExecutable": "npm", "runtimeArgs": ["run", "start"], "port": 3100 }
+  ]
+}
